@@ -1,0 +1,15 @@
+*.[oad]
+*.apk
+*.ipa
+*.obj
+*.lib
+*.dll
+*.tlog
+*.ilk
+*.lastbuildstate
+*.log
+*.pdb
+*.so
+bin/
+Debug.win32/
+obj/
