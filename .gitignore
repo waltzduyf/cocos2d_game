@@ -9,6 +9,7 @@
 *.lastbuildstate
 *.log
 *.pdb
+*.sdf
 *.so
 bin/
 Debug.win32/
